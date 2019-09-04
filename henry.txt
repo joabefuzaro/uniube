@@ -2,6 +2,9 @@
 alteração realizada por henry as 21:44!
 =======
 Lucas Oliveira alterou aqui!
+
+====
+ João guilherme alterou aqui.
 >>>>>>> aab7791af8564b06264233a61b24e8b89906b5c1
 
 Lerin passou aqui 
